@@ -30,7 +30,7 @@ def main():
   #set up the window
   screen_display = pygame.display.set_mode((screen_width,screen_height))
 
-  #create creeper character
+  #create character
   character = filename()
 
   #initialize the tnt 
